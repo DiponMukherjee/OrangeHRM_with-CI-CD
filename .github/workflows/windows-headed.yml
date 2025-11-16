@@ -1,8 +1,4 @@
-<<<<<<< HEAD:.github/workflows/windows-headed.yml
-name: Windows-Headed Test
-=======
-name: Ubuntu- Headed
->>>>>>> b730ea0ac851ab0db75f52df4c8ac4eac2d5f952:.github/workflows/ubuntu-headless.yml
+name: Windows Headed Test
 
 on:
   push:
