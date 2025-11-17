@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8633b5-bf46-45cc-86d1-65315406398a" name="Changes" comment="" />
+    <list default="true" id="9b8633b5-bf46-45cc-86d1-65315406398a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ubuntu-headed.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ubuntu-headed.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/windows-headed.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/windows-headed.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
